@@ -1,0 +1,93 @@
+[02-Mar-2021 14:02:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function typeof() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:31
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:02:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function typeof() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:31
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:36:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:36:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:36:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_title() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:31
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:36:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WP_Post::get_title() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:31
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:36:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:37:30 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:37:30 UTC] PHP Recoverable fatal error:  Object of class WP_Post could not be converted to string in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 31
+[02-Mar-2021 14:37:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:37:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 30
+[02-Mar-2021 14:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_excerpt() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:32
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 32
+[02-Mar-2021 14:46:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method WC_Product_Variable::get_excerpt() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:32
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 32
+[04-Mar-2021 17:55:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:61
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 61
+[04-Mar-2021 17:55:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:61
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 61
+[04-Mar-2021 17:57:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:46
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 46
+[04-Mar-2021 17:57:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:46
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 46
+[04-Mar-2021 17:57:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:46
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 46
+[04-Mar-2021 17:58:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_uri() in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php:46
+Stack trace:
+#0 /home/forestpaper/public_html/loja/wp-includes/template-loader.php(106): include()
+#1 /home/forestpaper/public_html/loja/wp-blog-header.php(19): require_once('/home/forestpap...')
+#2 /home/forestpaper/public_html/loja/index.php(17): require('/home/forestpap...')
+#3 {main}
+  thrown in /home/forestpaper/public_html/loja/wp-content/themes/forestloja/front-page.php on line 46
